@@ -66,13 +66,13 @@ Unlike the Fetch API, this project uses **Axios** to handle HTTP requests, offer
 
 ## 📸 App Preview
 
-|          Main Page           |          Search Form           |
-| :--------------------------: | :----------------------------: |
-| ![MainPage](./src/img/4.png) | ![SearchForm](./src/img/1.png) |
+|          Main Page           |          Search Form           |          Small Version           |
+| :--------------------------: | :----------------------------: | :------------------------------: |
+| ![MainPage](./src/img/4.png) | ![SearchForm](./src/img/1.png) | ![SmallVersion](./src/img/2.png) |
 
-|          Small Version           |          Large Version           |
-| :------------------------------: | :------------------------------: |
-| ![SmallVersion](./src/img/2.png) | ![LargeVersion](./src/img/3.png) |
+|          Large Version           |
+| :------------------------------: |
+| ![LargeVersion](./src/img/3.png) |
 
 ### ⚙️ Installation & Development
 
