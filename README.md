@@ -62,6 +62,18 @@ Unlike the Fetch API, this project uses **Axios** to handle HTTP requests, offer
 
 - **End of Results:** Informs the user when they have reached the end of the available images.
 
+---
+
+## 📸 App Preview
+
+|          Main Page           |          Search Form           |
+| :--------------------------: | :----------------------------: |
+| ![MainPage](./src/img/4.png) | ![SearchForm](./src/img/1.png) |
+
+|          Small Version           |          Large Version           |
+| :------------------------------: | :------------------------------: |
+| ![SmallVersion](./src/img/2.png) | ![LargeVersion](./src/img/3.png) |
+
 ### ⚙️ Installation & Development
 
 To run this project locally, follow these steps:
